@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.828 22.782">
+    <g data-name="Groupe 402">
+        <g data-name="Groupe 386">
+            <g data-name="Groupe 292">
+                <g data-name="Groupe 291" stroke="#000" stroke-linecap="round" stroke-width="1.5" transform="translate(-7.494 .75)">
+                    <path data-name="Tracé 40" d="M12.878 1.817h1.477V0h19.58v17.908" fill="none" stroke-miterlimit="10"></path>
+                    <path data-name="Tracé 41" d="M33.935 3.697h5.184l4.743 6.229h-7.271V3.697" fill="none" stroke-miterlimit="10"></path>
+                    <path data-name="Tracé 42" d="M43.863 9.927h2.077s3.633 0 3.633 3.309v4.672h-3.569" fill="none" stroke-miterlimit="10"></path>
+                    <circle data-name="Ellipse 17" cx="3.374" cy="3.374" r="3.374" transform="translate(39.256 14.534)" fill="none" stroke-miterlimit="10"></circle>
+                    <circle data-name="Ellipse 18" cx="3.374" cy="3.374" r="3.374" transform="translate(19.183 14.534)" fill="none" stroke-miterlimit="10"></circle>
+                    <path data-name="Tracé 74" d="M39.255 17.908H25.931" fill="#fff"></path>
+                    <path data-name="Tracé 43" d="M13.79 15.962h1.439v1.947h3.958" fill="none" stroke-miterlimit="10"></path>
+                    <path data-name="Ligne 11" fill="none" stroke-miterlimit="10" d="M19.275 7.782h-3.309"></path>
+                    <path data-name="Ligne 12" fill="none" stroke-miterlimit="10" d="M14.063 7.782H8.244"></path>
+                    <path data-name="Ligne 13" fill="none" stroke-miterlimit="10" d="M12 4.645h14.275"></path>
+                    <path data-name="Ligne 39" fill="none" stroke-miterlimit="10" d="M12 11.645h14.275"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
